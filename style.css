@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(255, 225, 187);
+    font-size: 20px;
+    font-family: 'Courier New', monospace;
+    padding: 15px;
+}
+
+h1, h2 {
+    color: midnightblue;
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    padding: 15px;
+}
+
+ul {
+    font-size: 25px;
+}
